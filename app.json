@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "my-app",
-    "slug": "my-app",
+    "slug": "testapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,6 +26,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "owner": "smashboy",
+    "extra": {
+      "eas": {
+        "projectId": "90db8357-69f8-49d6-945b-0fc1b5236ff5"
+      }
     }
   }
 }
