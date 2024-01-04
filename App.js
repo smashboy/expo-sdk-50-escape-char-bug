@@ -5,7 +5,7 @@ import "expo-dev-client";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>FUCK!</Text>
+      <Text>update test</Text>
       <StatusBar style="auto" />
     </View>
   );
